@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Manipulando Valores com C#", "Manipulando Valores com C#.csproj", "{177DD2F7-BF4F-4C32-A561-2774BA1EFB6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{177DD2F7-BF4F-4C32-A561-2774BA1EFB6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{177DD2F7-BF4F-4C32-A561-2774BA1EFB6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{177DD2F7-BF4F-4C32-A561-2774BA1EFB6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{177DD2F7-BF4F-4C32-A561-2774BA1EFB6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C60711E0-C44A-4F35-8320-2F302BDA7B94}
+	EndGlobalSection
+EndGlobal
