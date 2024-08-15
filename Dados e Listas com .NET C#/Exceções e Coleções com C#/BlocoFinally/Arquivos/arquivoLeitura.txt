@@ -1,0 +1,5 @@
+Linha 1 de leitura do arquivo de texto.
+Linha 2 de leitura do arquivo de texto.
+Linha 3 de leitura do arquivo de texto.
+Linha 4 de leitura do arquivo de texto.
+Linha 5 de leitura do arquivo de texto.
